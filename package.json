@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eventsource": "^1.1.0",
     "nth-check": "^2.0.0"
   }
 }
